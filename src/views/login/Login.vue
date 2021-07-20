@@ -46,7 +46,6 @@ export default {
     display: block;
     margin: 0 auto .4rem auto;
     width: .66rem;
-    height: .66rem;
   }
   &__input {
     height: .48rem;
